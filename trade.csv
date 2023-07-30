@@ -1,0 +1,114 @@
+Functional Areas ,Stakeholders / Related Functions,value
+Congressional Support,NIST Mission / Research Agenda,1
+NIST Mission / Research Agenda,Congressional Support,1
+NIST Mission / Research Agenda,Tech Transfer ,1
+Tech Transfer ,NIST Mission / Research Agenda,1
+NIST Mission / Research Agenda,Industry Partnerships,1
+Industry Partnerships,NIST Mission / Research Agenda,1
+NIST Mission / Research Agenda,Research Systems,1
+Research Systems,NIST Mission / Research Agenda,1
+NIST Mission / Research Agenda,Research Data Support,1
+Research Data Support,NIST Mission / Research Agenda,1
+NIST Mission / Research Agenda,Research / New Knowledge Generation,1
+Research / New Knowledge Generation,NIST Mission / Research Agenda,1
+NIST Mission / Research Agenda,Policy and Standards,1
+Policy and Standards,NIST Mission / Research Agenda,1
+Tech Transfer ,Industry Partnerships,1
+Industry Partnerships,Tech Transfer ,1
+Industry Partnerships,R & D,1
+R & D,Industry Partnerships,1
+R & D,Research Outputs / Dissemination of New Knowledge,1
+Research Outputs / Dissemination of New Knowledge,R & D,1
+R & D,Research / New Knowledge Generation,1
+Research / New Knowledge Generation,R & D,1
+Academic Partnerships / Networks,Research / New Knowledge Generation,1
+Research / New Knowledge Generation,Academic Partnerships / Networks,1
+Research / New Knowledge Generation,Research Systems,1
+Research Systems,Research / New Knowledge Generation,1
+Research / New Knowledge Generation,Research Outputs / Dissemination of New Knowledge,1
+Research Outputs / Dissemination of New Knowledge,Research / New Knowledge Generation,1
+Research / New Knowledge Generation,Research Data Support,1
+Research Data Support,Research / New Knowledge Generation,1
+Research / New Knowledge Generation,Policy and Standards,1
+Policy and Standards,Research / New Knowledge Generation,1
+Research Data Support,Research Systems,1
+Research Systems,Research Data Support,1
+Research Data Support,Policy and Standards,1
+Policy and Standards,Research Data Support,1
+Research Data Support,Training and Instruction,1
+Training and Instruction,Research Data Support,1
+Research Data Support,Systems for Research Data Support,1
+Systems for Research Data Support,Research Data Support,1
+Systems for Research Data Support,Training and Instruction,1
+Training and Instruction,Systems for Research Data Support,1
+Policy and Standards,IRB and Other approvals,1
+IRB and Other approvals,Policy and Standards,1
+Policy and Standards,Research Outputs / Dissemination of New Knowledge,1
+Research Outputs / Dissemination of New Knowledge,Policy and Standards,1
+VCAT,NIST Mission / Research Agenda,1
+NIST Mission / Research Agenda,VCAT,1
+CDO/SPO,Policy and Standards,1
+Policy and Standards,CDO/SPO,1
+OCC,Policy and Standards,1
+Policy and Standards,OCC,1
+OAR Council,Policy and Standards,1
+Policy and Standards,OAR Council,1
+OAR Council,Research Data Support,1
+Research Data Support,OAR Council,1
+RCAC,Policy and Standards,1
+Policy and Standards,RCAC,1
+RCAC,Systems for Research Data Support,1
+Systems for Research Data Support,RCAC,1
+Other OU Directors,R & D,1
+R & D,Other OU Directors,1
+Other OU Directors,Research / New Knowledge Generation,1
+Research / New Knowledge Generation,Other OU Directors,1
+ADIIS,Tech Transfer ,1
+Tech Transfer ,ADIIS,1
+ADLP,NIST Mission / Research Agenda,1
+NIST Mission / Research Agenda,ADLP,1
+ADLP,Industry Partnerships,1
+Industry Partnerships,ADLP,1
+Lab Leadership,NIST Mission / Research Agenda,1
+NIST Mission / Research Agenda,Lab Leadership,1
+Lab Leadership,Research / New Knowledge Generation,1
+ADMR,Research Systems,1
+Research Systems,ADMR,1
+NIST Director,NIST Mission / Research Agenda,1
+NIST Mission / Research Agenda,NIST Director,1
+Lab-Specific (ELDST/ODI),Research Data Support,1
+Research Data Support,Lab-Specific (ELDST/ODI),1
+Lab-Specific (ELDST/ODI),Systems for Research Data Support,1
+Systems for Research Data Support,Lab-Specific (ELDST/ODI),1
+Library,Systems for Research Data Support,0.5
+Systems for Research Data Support,Library,0.5
+Library,Research Data Support,1
+Research Data Support,Library,1
+Library,Training and Instruction,1
+Training and Instruction,Library,1
+OAR,Systems for Research Data Support,1
+Systems for Research Data Support,OAR,1
+OAR,Training and Instruction,0.5
+Training and Instruction,OAR,0.5
+OAR,Research Data Support,1
+Research Data Support,OAR,1
+OAR,Research Outputs / Dissemination of New Knowledge,1
+Research Outputs / Dissemination of New Knowledge,OAR,1
+OFPM,Research Systems,1
+Research Systems,OFPM,1
+OISM,Training and Instruction,0.5
+Training and Instruction,OISM,0.5
+OISM,Research Systems,1
+Research Systems,OISM,1
+OISM,Systems for Research Data Support,1
+Systems for Research Data Support,OISM,1
+TPO,Tech Transfer ,1
+Tech Transfer ,TPO,1
+Collaborators,Academic Partnerships / Networks,1
+Academic Partnerships / Networks,Collaborators,1
+Collaborators,Research / New Knowledge Generation,1
+Research / New Knowledge Generation,Collaborators,1
+Open/Public Access Data Users,Academic Partnerships / Networks,1
+Academic Partnerships / Networks,Open/Public Access Data Users,1
+Bench Researchers,Research Outputs / Dissemination of New Knowledge,1
+Research Outputs / Dissemination of New Knowledge,Bench Researchers,1
